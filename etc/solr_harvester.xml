@@ -1,0 +1,77 @@
+<harvesters>
+    <harvester name="GGC_def">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC</oai_setname>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <oai_resumption_token>null</oai_resumption_token>
+        <oai_from/>
+        <oai_to/>
+        <oai_optional/>
+        <solr_pre_xslt>GGC_default.xsl</solr_pre_xslt>
+        <solr_target>http://localhost:8080/solr/ggc/update</solr_target>
+    </harvester>
+    <harvester name="GGC_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>GGC_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="EDEPOT_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>EDEPOT</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/edepot/update</solr_target>
+        <solr_pre_xslt>EDEPOT_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="EDEPOT_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>EDEPOT</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>EDEPOT_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="DARE_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GGC</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/dare/update</solr_target>
+        <solr_pre_xslt>DARE_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="DARE_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>DARE</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>DARE_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="GVN_default">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GVN</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/gvn/update</solr_target>
+        <solr_pre_xslt>GVN_default.xsl</solr_pre_xslt>
+    </harvester>
+
+    <harvester name="GVN_mixed">
+        <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+        <oai_setname>GVN</oai_setname>
+        <oai_resumption_token/>
+        <oai_metadataprefix>INDEXING</oai_metadataprefix>
+        <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+        <solr_pre_xslt>GVN_default.xsl</solr_pre_xslt>
+    </harvester>
+
+
+</harvesters>

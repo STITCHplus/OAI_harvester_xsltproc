@@ -1,0 +1,2421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2010-06-03T13:27:02.731Z</responseDate>
+  <request metadataPrefix="INDEXING" verb="ListRecords" set="SGD">http://services.kb.nl/mdo/oai</request>
+  <ListRecords>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000001</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000001</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000001&amp;role=xml</dc:identifier>
+          <record-id>0000000001</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Verenigde Vergadering 1994-1995 20 september 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Verenigde Vergadering</dc:coverage>
+          <dc:date>1994-09-20</dc:date>
+          <dc:description>Handelingen Verenigde Vergadering 1994-1995 20 september 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>1</dcx:startpage>
+          <dcx:endpage>6</dcx:endpage>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000002</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000002</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000002&amp;role=xml</dc:identifier>
+          <record-id>0000000002</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Verenigde Vergadering 1994-1995 20 september 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Verenigde Vergadering</dc:coverage>
+          <dc:date>1994-09-20</dc:date>
+          <dc:description>Handelingen Verenigde Vergadering 1994-1995 20 september 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>1</dcx:startpage>
+          <dcx:endpage>6</dcx:endpage>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000003</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000003</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000003&amp;role=xml</dc:identifier>
+          <record-id>0000000003</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 27 september 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-09-27</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 27 september 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>7</dcx:startpage>
+          <dcx:endpage>32</dcx:endpage>
+          <dcterms:extent>26</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000004</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000004</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000004&amp;role=xml</dc:identifier>
+          <record-id>0000000004</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 11 oktober 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-10-11</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 11 oktober 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>33</dcx:startpage>
+          <dcx:endpage>70</dcx:endpage>
+          <dcterms:extent>38</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000005</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000005</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000005&amp;role=xml</dc:identifier>
+          <record-id>0000000005</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 25 oktober 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-10-25</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 25 oktober 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>71</dcx:startpage>
+          <dcx:endpage>76</dcx:endpage>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000006</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000006</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000006&amp;role=xml</dc:identifier>
+          <record-id>0000000006</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 01 november 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-11-01</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 01 november 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>77</dcx:startpage>
+          <dcx:endpage>92</dcx:endpage>
+          <dcterms:extent>16</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000007</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000007</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000007&amp;role=xml</dc:identifier>
+          <record-id>0000000007</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 15 november 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-11-15</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 15 november 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>93</dcx:startpage>
+          <dcx:endpage>114</dcx:endpage>
+          <dcterms:extent>22</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000008</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000008</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000008&amp;role=xml</dc:identifier>
+          <record-id>0000000008</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 22 november 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-11-22</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 22 november 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>115</dcx:startpage>
+          <dcx:endpage>154</dcx:endpage>
+          <dcterms:extent>40</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000009</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000009</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000009&amp;role=xml</dc:identifier>
+          <record-id>0000000009</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 23 november 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-11-23</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 23 november 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>155</dcx:startpage>
+          <dcx:endpage>204</dcx:endpage>
+          <dcterms:extent>50</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000010</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000010</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000010&amp;role=xml</dc:identifier>
+          <record-id>0000000010</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 29 november 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-11-29</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 29 november 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>205</dcx:startpage>
+          <dcx:endpage>252</dcx:endpage>
+          <dcterms:extent>48</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000011</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000011</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000011&amp;role=xml</dc:identifier>
+          <record-id>0000000011</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 13 december 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-12-13</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 13 december 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>253</dcx:startpage>
+          <dcx:endpage>290</dcx:endpage>
+          <dcterms:extent>38</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000012</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000012</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000012&amp;role=xml</dc:identifier>
+          <record-id>0000000012</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 19 december 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-12-19</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 19 december 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>301</dcx:startpage>
+          <dcx:endpage>334</dcx:endpage>
+          <dcterms:extent>34</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000013</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000013</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000013&amp;role=xml</dc:identifier>
+          <record-id>0000000013</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 20 december 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-12-20</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 20 december 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>335</dcx:startpage>
+          <dcx:endpage>406</dcx:endpage>
+          <dcterms:extent>72</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000014</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000014</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000014&amp;role=xml</dc:identifier>
+          <record-id>0000000014</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Handelingen Eerste Kamer 1994-1995 21 december 1994</dc:title>
+          <dc:type>Handelingen</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:date>1994-12-21</dc:date>
+          <dc:description>Handelingen Eerste Kamer 1994-1995 21 december 1994</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <dcx:startpage>407</dcx:startpage>
+          <dcx:endpage>463</dcx:endpage>
+          <dcterms:extent>57</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000015</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000015</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000015&amp;role=xml</dc:identifier>
+          <record-id>0000000015</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 1</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het lid Postma (CDA) inzake beperking Universitaire basisopleiding.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 1</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>1</sgd:aanhangselnummer>
+          <sgd:questioner>Postma</sgd:questioner>
+          <sgd:dateQuestion>1994-09-13</sgd:dateQuestion>
+          <sgd:responder>Nuis</sgd:responder>
+          <sgd:dateResponse>1994-09-23</sgd:dateResponse>
+          <dcx:startpage>1</dcx:startpage>
+          <dcx:endpage>2</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000016</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000016</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000016&amp;role=xml</dc:identifier>
+          <record-id>0000000016</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 2</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het lid Postma (CDA) inzake erkenning Nederlands als één van de officiële talen van het Europees Merkenbureau.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 2</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>2</sgd:aanhangselnummer>
+          <sgd:questioner>Postma</sgd:questioner>
+          <sgd:dateQuestion>1994-09-13</sgd:dateQuestion>
+          <sgd:responder>Kok</sgd:responder>
+          <sgd:dateResponse>1994-09-26</sgd:dateResponse>
+          <dcx:startpage>3</dcx:startpage>
+          <dcx:endpage>4</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000017</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000017</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000017&amp;role=xml</dc:identifier>
+          <record-id>0000000017</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 3 Herdruk</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het lid Postma (CDA) inzake toezending inspectierapport betreffende Nederlands als voertaal binnen de Nederlandse instellingen van Hoger Onderwijs.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 3 Herdruk</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>3 Herdruk</sgd:aanhangselnummer>
+          <sgd:questioner>Postma</sgd:questioner>
+          <sgd:dateQuestion>1994-09-13</sgd:dateQuestion>
+          <sgd:responder>Ritzen</sgd:responder>
+          <sgd:dateResponse>1994-10-13</sgd:dateResponse>
+          <dcx:startpage>5</dcx:startpage>
+          <dcx:endpage>6</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000018</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000018</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000018&amp;role=xml</dc:identifier>
+          <record-id>0000000018</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 4</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het leden Kuiper en Postma (beiden CDA) inzake instelling van een CAPES in de Nederlandse taal.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 4</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>4</sgd:aanhangselnummer>
+          <sgd:questioner>Kuiper</sgd:questioner>
+          <sgd:questioner>Postma</sgd:questioner>
+          <sgd:dateQuestion>1994-10-11</sgd:dateQuestion>
+          <sgd:responder>Ritzen</sgd:responder>
+          <sgd:dateResponse>1994-11-15</sgd:dateResponse>
+          <dcx:startpage>7</dcx:startpage>
+          <dcx:endpage>8</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000019</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000019</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000019&amp;role=xml</dc:identifier>
+          <record-id>0000000019</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 5</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van de leden Van Graafeiland en Hilarides (beiden VVD) inzake Aandelenfusie vóór 27 april 1989 in het kader van de Wet op de dividendbelasting 1965.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 5</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>5</sgd:aanhangselnummer>
+          <sgd:questioner>Van Graafeiland</sgd:questioner>
+          <sgd:questioner>Hilarides</sgd:questioner>
+          <sgd:dateQuestion>1994-10-25</sgd:dateQuestion>
+          <sgd:responder>Vermeend</sgd:responder>
+          <sgd:dateResponse>1994-11-15</sgd:dateResponse>
+          <dcx:startpage>9</dcx:startpage>
+          <dcx:endpage>10</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000020</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000020</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000020&amp;role=xml</dc:identifier>
+          <record-id>0000000020</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 6</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het lid Boorsma (CDA) inzake fiscale steun pomphouders zuidelijke Nederlandse grens.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 6</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>6</sgd:aanhangselnummer>
+          <sgd:questioner>Boorsma</sgd:questioner>
+          <sgd:dateQuestion>1994-11-15</sgd:dateQuestion>
+          <sgd:responder>Vermeend</sgd:responder>
+          <sgd:dateResponse>1994-12-06</sgd:dateResponse>
+          <dcx:startpage>11</dcx:startpage>
+          <dcx:endpage>12</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000021</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000021</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000021&amp;role=xml</dc:identifier>
+          <record-id>0000000021</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 7</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van de leden Van Graafeiland en Hilarides (beiden VVD) inzake aandelenfusie vóór 27 april 1989 in het kader van de Wet op de Dividendbelasting 1965.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 7</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>7</sgd:aanhangselnummer>
+          <sgd:questioner>Van Graafeiland</sgd:questioner>
+          <sgd:questioner>Hilarides</sgd:questioner>
+          <sgd:dateQuestion>1994-10-25</sgd:dateQuestion>
+          <sgd:responder>Vermeend</sgd:responder>
+          <sgd:dateResponse>1994-12-13</sgd:dateResponse>
+          <dcx:startpage>13</dcx:startpage>
+          <dcx:endpage>14</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000022</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000022</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000022&amp;role=xml</dc:identifier>
+          <record-id>0000000022</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 8</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van de leden Boorsma en Van Muijen (beiden CDA) inzake Wet Toezicht Kredietwezen.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 8</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>8</sgd:aanhangselnummer>
+          <sgd:questioner>Boorsma</sgd:questioner>
+          <sgd:questioner>Van Muijen</sgd:questioner>
+          <sgd:dateQuestion>1994-11-15</sgd:dateQuestion>
+          <sgd:responder>Zalm</sgd:responder>
+          <sgd:dateResponse>1994-12-20</sgd:dateResponse>
+          <dcx:startpage>15</dcx:startpage>
+          <dcx:endpage>16</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000023</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000023</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000023&amp;role=xml</dc:identifier>
+          <record-id>0000000023</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 9</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van de leden Boorsma en Grol-Overling (beiden CDA) inzake betalingsregeling voor lesgelden.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 9</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>9</sgd:aanhangselnummer>
+          <sgd:questioner>Boorsma</sgd:questioner>
+          <sgd:questioner>Grol-Overling</sgd:questioner>
+          <sgd:dateQuestion>1994-12-06</sgd:dateQuestion>
+          <sgd:responder>Ritzen</sgd:responder>
+          <sgd:dateResponse>1994-12-23</sgd:dateResponse>
+          <dcx:startpage>17</dcx:startpage>
+          <dcx:endpage>18</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000024</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000024</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000024&amp;role=xml</dc:identifier>
+          <record-id>0000000024</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 10</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van de leden Boorsma en Van Muijen (beiden CDA) inzake Wet Toezicht Kredietwezen.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 10</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>10</sgd:aanhangselnummer>
+          <sgd:questioner>Boorsma</sgd:questioner>
+          <sgd:questioner>Van Muijen</sgd:questioner>
+          <sgd:dateQuestion>1994-11-15</sgd:dateQuestion>
+          <sgd:responder>Zalm</sgd:responder>
+          <sgd:dateResponse>1995-01-17</sgd:dateResponse>
+          <dcx:startpage>19</dcx:startpage>
+          <dcx:endpage>20</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000025</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000025</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000025&amp;role=xml</dc:identifier>
+          <record-id>0000000025</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 11</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het lid Eversdijk (CDA) inzake de Hollandse IJssel.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 11</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>11</sgd:aanhangselnummer>
+          <sgd:questioner>Eversdijk</sgd:questioner>
+          <sgd:dateQuestion>1995-01-10</sgd:dateQuestion>
+          <sgd:responder>Jorritsma-Lebbink</sgd:responder>
+          <sgd:dateResponse>1995-01-19</sgd:dateResponse>
+          <dcx:startpage>21</dcx:startpage>
+          <dcx:endpage>22</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000026</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000026</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000026&amp;role=xml</dc:identifier>
+          <record-id>0000000026</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 12</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>Vragen van het lid Holdijk (SGP) inzake arresten Hoge Raad m.b.t. artikel 31 Wegenverkeerswet.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 12</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>12</sgd:aanhangselnummer>
+          <sgd:questioner>Holdijk</sgd:questioner>
+          <sgd:dateQuestion>1994-12-16</sgd:dateQuestion>
+          <sgd:responder>Sorgdrager</sgd:responder>
+          <sgd:dateResponse>1995-01-23</sgd:dateResponse>
+          <dcx:startpage>23</dcx:startpage>
+          <dcx:endpage>24</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000027</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000027</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000027&amp;role=xml</dc:identifier>
+          <record-id>0000000027</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanhangsel Eerste Kamer 1994-1995 nummer 13</dc:title>
+          <dc:type>Aanhangsel</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:subject>van de leden Schuurman (RPF), Van Gennip, Coenemans (beiden CDA), Barendrecht (SGP), Pitstra (GL), Veling (GPV), Ginjaar (VVD), Redemeijer (PvdA) en Mertens (D66) inzake verlies biodiversiteit ten gevolge van toekomstige toepassing van genetische modificatie.</dc:subject>
+          <dc:description>Aanhangsel Eerste Kamer 1994-1995 nummer 13</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:aanhangselnummer>13</sgd:aanhangselnummer>
+          <sgd:questioner>Schuurman</sgd:questioner>
+          <sgd:questioner>Van Gennip</sgd:questioner>
+          <sgd:questioner>Coenemans</sgd:questioner>
+          <sgd:questioner>Barendrecht</sgd:questioner>
+          <sgd:questioner>Pitstra</sgd:questioner>
+          <sgd:questioner>Veling</sgd:questioner>
+          <sgd:questioner>Ginjaar</sgd:questioner>
+          <sgd:questioner>Redemeijer</sgd:questioner>
+          <sgd:questioner>Mertens</sgd:questioner>
+          <sgd:dateQuestion>1994-12-14</sgd:dateQuestion>
+          <sgd:responder>Van Aartsen</sgd:responder>
+          <sgd:dateResponse>1995-02-17</sgd:dateResponse>
+          <dcx:startpage>25</dcx:startpage>
+          <dcx:endpage>26</dcx:endpage>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000028</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000028</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000028&amp;role=xml</dc:identifier>
+          <record-id>0000000028</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Aanvulling van de Boeken 3, 6 en 8 nieuw BW met regels betreffende de aansprakelijkheid voor gevaarlijke stoffen en verontreiniging van lucht, water of bodem</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 21202 ondernummer 45</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>21202</sgd:kamerstuknummer>
+          <sgd:ondernummer>45</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000029</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000029</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000029&amp;role=xml</dc:identifier>
+          <record-id>0000000029</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de jeugdhulpverlening en enige andere wetten</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22060 ondernummer 42</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22060</sgd:kamerstuknummer>
+          <sgd:ondernummer>42</sgd:ondernummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000030</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000030</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000030&amp;role=xml</dc:identifier>
+          <record-id>0000000030</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de jeugdhulpverlening en enige andere wetten</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22060 ondernummer 42a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22060</sgd:kamerstuknummer>
+          <sgd:ondernummer>42a</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000031</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000031</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000031&amp;role=xml</dc:identifier>
+          <record-id>0000000031</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Herinrichting van de Algemene Bijstandswet (Algemene bijstandswet)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22545 ondernummer 75</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22545</sgd:kamerstuknummer>
+          <sgd:ondernummer>75</sgd:ondernummer>
+          <dcterms:extent>43</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000032</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000032</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000032&amp;role=xml</dc:identifier>
+          <record-id>0000000032</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Herinrichting van de Algemene Bijstandswet (Algemene bijstandswet)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22545 ondernummer 75a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22545</sgd:kamerstuknummer>
+          <sgd:ondernummer>75a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000033</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000033</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000033&amp;role=xml</dc:identifier>
+          <record-id>0000000033</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regels met betrekking tot octrooien (Rijksoctrooiwet 199.)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22604 ondernummer 4</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22604</sgd:kamerstuknummer>
+          <sgd:ondernummer>4</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1435</sgd:rijkswetnummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000034</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000034</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000034&amp;role=xml</dc:identifier>
+          <record-id>0000000034</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regels met betrekking tot octrooien (Rijksoctrooiwet 199.)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22604 ondernummer 4a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22604</sgd:kamerstuknummer>
+          <sgd:ondernummer>4a</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1435</sgd:rijkswetnummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000035</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000035</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000035&amp;role=xml</dc:identifier>
+          <record-id>0000000035</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regels met betrekking tot octrooien (Rijksoctrooiwet 199.)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22604 ondernummer 4b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22604</sgd:kamerstuknummer>
+          <sgd:ondernummer>4b</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1435</sgd:rijkswetnummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000036</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000036</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000036&amp;role=xml</dc:identifier>
+          <record-id>0000000036</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Invoering van een nieuwe Algemene bijstandswet (Invoeringswet herinrichting Algemene Bijstandswet)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22614 ondernummer 76</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22614</sgd:kamerstuknummer>
+          <sgd:ondernummer>76</sgd:ondernummer>
+          <dcterms:extent>47</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000037</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000037</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000037&amp;role=xml</dc:identifier>
+          <record-id>0000000037</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Goedkeuring van de op 16 november 1989 te Straatsburg tot stand gekomen Overeenkomst ter bestrijding van doping</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22671 ondernummer 54</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22671</sgd:kamerstuknummer>
+          <sgd:ondernummer>54</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1442</sgd:rijkswetnummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000038</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000038</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000038&amp;role=xml</dc:identifier>
+          <record-id>0000000038</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Pachtwet</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22705 ondernummer 99</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22705</sgd:kamerstuknummer>
+          <sgd:ondernummer>99</sgd:ondernummer>
+          <dcterms:extent>8</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000039</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000039</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000039&amp;role=xml</dc:identifier>
+          <record-id>0000000039</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van artikel 12 van de Wet op de Kanselarijrechten</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22841 ondernummer 101</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22841</sgd:kamerstuknummer>
+          <sgd:ondernummer>101</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1450</sgd:rijkswetnummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000040</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000040</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000040&amp;role=xml</dc:identifier>
+          <record-id>0000000040</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wet belastingen op milieugrondslag</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22849 ondernummer 141</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22849</sgd:kamerstuknummer>
+          <sgd:ondernummer>141</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000041</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000041</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000041&amp;role=xml</dc:identifier>
+          <record-id>0000000041</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Invoering van en aanpassing van een aantal wetten aan de Wet  belastingen op milieugrondslag (Invoeringswet Wet belastingen op milieugrondslag)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22851 ondernummer 141</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22851</sgd:kamerstuknummer>
+          <sgd:ondernummer>141</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000042</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000042</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000042&amp;role=xml</dc:identifier>
+          <record-id>0000000042</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Goedkeuring van het op 20 november 1989 te New York tot stand gekomen Verdrag inzake de rechten van het kind</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22855 ondernummer 22</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22855</sgd:kamerstuknummer>
+          <sgd:ondernummer>22</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1451</sgd:rijkswetnummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000043</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000043</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000043&amp;role=xml</dc:identifier>
+          <record-id>0000000043</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Goedkeuring van het op 20 november 1989 te New York tot stand gekomen Verdrag inzake de rechten van het kind</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22855 ondernummer 22a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22855</sgd:kamerstuknummer>
+          <sgd:ondernummer>22a</sgd:ondernummer>
+          <sgd:rijkswetnummer>R1451</sgd:rijkswetnummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000044</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000044</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000044&amp;role=xml</dc:identifier>
+          <record-id>0000000044</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Algemene regels inzake de waardering van onroerende zaken (Wet waardering onroerende zaken)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22885 ondernummer 18</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22885</sgd:kamerstuknummer>
+          <sgd:ondernummer>18</sgd:ondernummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000045</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000045</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000045&amp;role=xml</dc:identifier>
+          <record-id>0000000045</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Algemene regels inzake de waardering van onroerende zaken (Wet waardering onroerende zaken)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22885 ondernummer 18a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22885</sgd:kamerstuknummer>
+          <sgd:ondernummer>18a</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000046</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000046</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000046&amp;role=xml</dc:identifier>
+          <record-id>0000000046</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Algemene regels inzake de waardering van onroerende zaken (Wet waardering onroerende zaken)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22885 ondernummer 18b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22885</sgd:kamerstuknummer>
+          <sgd:ondernummer>18b</sgd:ondernummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000047</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000047</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000047&amp;role=xml</dc:identifier>
+          <record-id>0000000047</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Algemene regels inzake de waardering van onroerende zaken (Wet waardering onroerende zaken)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22885 ondernummer 18c</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22885</sgd:kamerstuknummer>
+          <sgd:ondernummer>18c</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000048</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000048</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000048&amp;role=xml</dc:identifier>
+          <record-id>0000000048</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Algemene regels inzake de waardering van onroerende zaken (Wet waardering onroerende zaken)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22885 ondernummer 18d</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22885</sgd:kamerstuknummer>
+          <sgd:ondernummer>18d</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000049</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000049</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000049&amp;role=xml</dc:identifier>
+          <record-id>0000000049</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Algemene regels inzake de waardering van onroerende zaken (Wet waardering onroerende zaken)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22885 ondernummer 18e</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22885</sgd:kamerstuknummer>
+          <sgd:ondernummer>18e</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000050</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000050</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000050&amp;role=xml</dc:identifier>
+          <record-id>0000000050</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wegenverkeerswet 1992, houdende regeling van de verzelfstandiging van de Rijksdienst voor het Wegverkeer</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22961 ondernummer 93</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22961</sgd:kamerstuknummer>
+          <sgd:ondernummer>93</sgd:ondernummer>
+          <dcterms:extent>21</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000051</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000051</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000051&amp;role=xml</dc:identifier>
+          <record-id>0000000051</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wegenverkeerswet 1994, houdende regeling van de verzelfstandiging van de Rijksdienst voor het Wegverkeer</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22961 ondernummer 93a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22961</sgd:kamerstuknummer>
+          <sgd:ondernummer>93a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000052</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000052</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000052&amp;role=xml</dc:identifier>
+          <record-id>0000000052</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wegenverkeerswet 1994, houdende regeling van de verzelfstandiging van de Rijksdienst voor het Wegverkeer</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 22961 ondernummer 93b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>22961</sgd:kamerstuknummer>
+          <sgd:ondernummer>93b</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000053</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000053</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000053&amp;role=xml</dc:identifier>
+          <record-id>0000000053</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Herziening van de maatregel van ondertoezichtstelling van minderjarigen (artikelen 254 en volgende van Boek 1 van het Burgerlijk Wetboek)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23003 ondernummer 58</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23003</sgd:kamerstuknummer>
+          <sgd:ondernummer>58</sgd:ondernummer>
+          <dcterms:extent>7</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000054</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000054</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000054&amp;role=xml</dc:identifier>
+          <record-id>0000000054</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Herziening van de maatregel van ondertoezichtstelling van minderjaren (artikelen 254 en volgende van Boek 1 van het Burgerlijk Wetboek)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23003 ondernummer 58a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23003</sgd:kamerstuknummer>
+          <sgd:ondernummer>58a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000055</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000055</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000055&amp;role=xml</dc:identifier>
+          <record-id>0000000055</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Herziening van de maatregel van ondertoezichtstelling van minderjarigen (artikelen 254 en volgende van Boek 1 van het Burgerlijk Wetboek)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23003 ondernummer 58b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23003</sgd:kamerstuknummer>
+          <sgd:ondernummer>58b</sgd:ondernummer>
+          <dcterms:extent>11</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000056</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000056</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000056&amp;role=xml</dc:identifier>
+          <record-id>0000000056</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Nadere regeling van het gezag over en van de omgang met minderjarige kinderen</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23012 ondernummer 73</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23012</sgd:kamerstuknummer>
+          <sgd:ondernummer>73</sgd:ondernummer>
+          <dcterms:extent>20</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000057</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000057</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000057&amp;role=xml</dc:identifier>
+          <record-id>0000000057</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Nadere regeling van het gezag over en van de omgang met minderjarige kinderen</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23012 ondernummer 73a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23012</sgd:kamerstuknummer>
+          <sgd:ondernummer>73a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000058</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000058</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000058&amp;role=xml</dc:identifier>
+          <record-id>0000000058</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de inkomstenbelasting (kapitaalverzekeringen en periodieke uitkeringen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23023 ondernummer 130</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23023</sgd:kamerstuknummer>
+          <sgd:ondernummer>130</sgd:ondernummer>
+          <dcterms:extent>4</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000059</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000059</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000059&amp;role=xml</dc:identifier>
+          <record-id>0000000059</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de inkomstenbelasting (kapitaalverzekeringen en periodieke uitkeringen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23023 ondernummer 130a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23023</sgd:kamerstuknummer>
+          <sgd:ondernummer>130a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000060</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000060</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000060&amp;role=xml</dc:identifier>
+          <record-id>0000000060</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regels ter bevordering van de medezeggenschap van de cliënten van uit collectieve middelen gefinancierde zorgaanbieders op het terrein van de maatschappelijke zorg en gezondheidszorg (Wet medezeggenschap cliënten zorginstellingen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23041 ondernummer 31</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23041</sgd:kamerstuknummer>
+          <sgd:ondernummer>31</sgd:ondernummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000061</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000061</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000061&amp;role=xml</dc:identifier>
+          <record-id>0000000061</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regels ter bevordering van de medezeggenschap van de cliënten van uit collectieve middelen gefinancierde zorgaanbieders op het terrein van de maatschappelijke zorg en gezondheidszorg (Wet medezeggenschap cliënten zorginstellingen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23041 ondernummer 31a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23041</sgd:kamerstuknummer>
+          <sgd:ondernummer>31a</sgd:ondernummer>
+          <dcterms:extent>5</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000062</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000062</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000062&amp;role=xml</dc:identifier>
+          <record-id>0000000062</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23046 ondernummer 79 Herdruk</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23046</sgd:kamerstuknummer>
+          <sgd:ondernummer>79 Herdruk</sgd:ondernummer>
+          <dcterms:extent>18</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000063</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000063</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000063&amp;role=xml</dc:identifier>
+          <record-id>0000000063</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23046 ondernummer 79a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23046</sgd:kamerstuknummer>
+          <sgd:ondernummer>79a</sgd:ondernummer>
+          <dcterms:extent>9</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000064</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000064</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000064&amp;role=xml</dc:identifier>
+          <record-id>0000000064</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23046 ondernummer 79b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23046</sgd:kamerstuknummer>
+          <sgd:ondernummer>79b</sgd:ondernummer>
+          <dcterms:extent>12</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000065</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000065</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000065&amp;role=xml</dc:identifier>
+          <record-id>0000000065</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23046 ondernummer 79c</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23046</sgd:kamerstuknummer>
+          <sgd:ondernummer>79c</sgd:ondernummer>
+          <dcterms:extent>9</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000066</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000066</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000066&amp;role=xml</dc:identifier>
+          <record-id>0000000066</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23046 ondernummer 79d</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23046</sgd:kamerstuknummer>
+          <sgd:ondernummer>79d</sgd:ondernummer>
+          <dcterms:extent>9</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000067</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000067</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000067&amp;role=xml</dc:identifier>
+          <record-id>0000000067</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de loonbelasting 1964, de Wet op de vermogensbelasting 1964, de Successiewet 1956, de Wet op de inkomstenbelasting 1964, de Wet op de vennootschapsbelasting 1969, de Invorderingswet 1990 en de Coördinatiewet Sociale Verzekering naar aanleiding van de herziening van het fiscale regime voor onderhoudsvoorzieningen en bepaalde spaarvormen in de inkomstenbelasting (Aanpassing van de Wet op de loonbelasting 1964 en andere wetten aan Brede Herwaardering)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23046 ondernummer 79e</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23046</sgd:kamerstuknummer>
+          <sgd:ondernummer>79e</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000068</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000068</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000068&amp;role=xml</dc:identifier>
+          <record-id>0000000068</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de inkomstenbelasting (winstbewijzen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23083 ondernummer 7</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23083</sgd:kamerstuknummer>
+          <sgd:ondernummer>7</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000070</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000070</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000070&amp;role=xml</dc:identifier>
+          <record-id>0000000070</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet opneming buitenlandse pleegkinderen en van de Pleegkinderenwet</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23137 ondernummer 63a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23137</sgd:kamerstuknummer>
+          <sgd:ondernummer>63a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000069</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000069</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000069&amp;role=xml</dc:identifier>
+          <record-id>0000000069</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet opneming buitenlandse pleegkinderen en van de Pleegkinderenwet</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23137 ondernummer 63</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23137</sgd:kamerstuknummer>
+          <sgd:ondernummer>63</sgd:ondernummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000071</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000071</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000071&amp;role=xml</dc:identifier>
+          <record-id>0000000071</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet opneming buitenlandse pleegkinderen en van de Pleegkinderenwet</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23137 ondernummer 63b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23137</sgd:kamerstuknummer>
+          <sgd:ondernummer>63b</sgd:ondernummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000072</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000072</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000072&amp;role=xml</dc:identifier>
+          <record-id>0000000072</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>De aanpassing van de uitvoeringsorganisatie sociale verzekeringen</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23141 ondernummer 11</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23141</sgd:kamerstuknummer>
+          <sgd:ondernummer>11</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000073</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000073</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000073&amp;role=xml</dc:identifier>
+          <record-id>0000000073</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>De aanpassing van de uitvoeringsorganisatie sociale verzekeringen</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23141 ondernummer 11a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23141</sgd:kamerstuknummer>
+          <sgd:ondernummer>11a</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000074</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000074</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000074&amp;role=xml</dc:identifier>
+          <record-id>0000000074</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Bestrijdingsmiddelenwet 1962 (implementatie richtlijn gewasbeschermingsmiddelen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23177 ondernummer 21</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23177</sgd:kamerstuknummer>
+          <sgd:ondernummer>21</sgd:ondernummer>
+          <dcterms:extent>5</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000075</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000075</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000075&amp;role=xml</dc:identifier>
+          <record-id>0000000075</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Bestrijdingsmiddelenwet 1962 (implementatie richtlijn gewasbeschermingsmiddelen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23177 ondernummer 21a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23177</sgd:kamerstuknummer>
+          <sgd:ondernummer>21a</sgd:ondernummer>
+          <dcterms:extent>18</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000076</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000076</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000076&amp;role=xml</dc:identifier>
+          <record-id>0000000076</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Partiële wijziging van het Wetboek van Strafvordering (herziening bepalingen inzake gevallen waarin en gronden waarop voorlopige hechtenis kan worden toegepast)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23178 ondernummer 135</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23178</sgd:kamerstuknummer>
+          <sgd:ondernummer>135</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000077</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000077</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000077&amp;role=xml</dc:identifier>
+          <record-id>0000000077</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23218 ondernummer 1</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23218</sgd:kamerstuknummer>
+          <sgd:ondernummer>1</sgd:ondernummer>
+          <dcterms:extent>5</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000078</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000078</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000078&amp;role=xml</dc:identifier>
+          <record-id>0000000078</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23218 ondernummer 1a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23218</sgd:kamerstuknummer>
+          <sgd:ondernummer>1a</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000079</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000079</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000079&amp;role=xml</dc:identifier>
+          <record-id>0000000079</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23218 ondernummer 1b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23218</sgd:kamerstuknummer>
+          <sgd:ondernummer>1b</sgd:ondernummer>
+          <dcterms:extent>4</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000080</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000080</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000080&amp;role=xml</dc:identifier>
+          <record-id>0000000080</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op het hoger onderwijs en wetenschappelijk onderzoek in verband met decentralisatie van regelgeving op arbeidsvoorwaardelijk terrein</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23218 ondernummer 1c</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23218</sgd:kamerstuknummer>
+          <sgd:ondernummer>1c</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000081</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000081</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000081&amp;role=xml</dc:identifier>
+          <record-id>0000000081</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Verlaging van de verschuldigde pensioenbijdrage als bedoeld in de Algemene burgerlijke pensioenwet over de jaren 1991-1992, alsmede verlaging van de verschuldigde wachtgeldtijdbijdrage over de jaren 1991 en 1992</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23246 ondernummer 53</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23246</sgd:kamerstuknummer>
+          <sgd:ondernummer>53</sgd:ondernummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000082</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000082</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000082&amp;role=xml</dc:identifier>
+          <record-id>0000000082</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Verlaging van de verschuldigde pensioenbijdrage als bedoeld in de Algemene burgerlijke pensioenwet over de jaren 1991-1992, alsmede verlaging van de verschuldigde wachtgeldtijdbijdrage over de jaren 1991 en 1992</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23246 ondernummer 53a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23246</sgd:kamerstuknummer>
+          <sgd:ondernummer>53a</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000083</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000083</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000083&amp;role=xml</dc:identifier>
+          <record-id>0000000083</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Verlaging van de verschuldigde pensioenbijdrage als bedoeld in de Algemene burgerlijke pensioenwet over de jaren 1991-1992, alsmede verlaging van de verschuldigde wachtgeldtijdbijdrage over de jaren 1991 en 1992</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23246 ondernummer 53b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23246</sgd:kamerstuknummer>
+          <sgd:ondernummer>53b</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000084</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000084</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000084&amp;role=xml</dc:identifier>
+          <record-id>0000000084</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Verlaging van de verschuldigde pensioenbijdrage als bedoeld in de Algemene burgerlijke pensioenwet over de jaren 1991-1992, alsmede verlaging van de verschuldigde wachtgeldtijdbijdrage over de jaren 1991 en 1992</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23246 ondernummer 53c</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23246</sgd:kamerstuknummer>
+          <sgd:ondernummer>53c</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000085</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000085</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000085&amp;role=xml</dc:identifier>
+          <record-id>0000000085</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet economische mededinging (vergroting effectiviteit)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23306 ondernummer 81</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23306</sgd:kamerstuknummer>
+          <sgd:ondernummer>81</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000086</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000086</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000086&amp;role=xml</dc:identifier>
+          <record-id>0000000086</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regels omtrent de vrijwillige verplaatsing naar het buitenland van de statutaire zetel van naamloze vennootschappen, besloten vennootschappen, coöperaties, onderlinge waarborgmaatschappijen en stichtingen in tijden van nood (Wet vrijwillige zetelverplaatsing derde landen)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23316 ondernummer 8</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23316</sgd:kamerstuknummer>
+          <sgd:ondernummer>8</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000087</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000087</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000087&amp;role=xml</dc:identifier>
+          <record-id>0000000087</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Vaststelling van de begroting van de uitgaven en de ontvangsten van hoofdstuk XIV (Ministerie van Landbouw, Natuurbeheer en Visserij) voor het jaar 1994</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23400 XIV ondernummer 80</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23400 XIV</sgd:kamerstuknummer>
+          <sgd:ondernummer>80</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000088</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000088</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000088&amp;role=xml</dc:identifier>
+          <record-id>0000000088</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de inkomstenbelasting 1964, de Wet op de loonbelasting 1964 en de Coördinatiewet Sociale Verzekering (regelingen met betrekking tot aftrek en belastingvrije vergoeding van kosten van kinderopvang)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23483 ondernummer 6</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23483</sgd:kamerstuknummer>
+          <sgd:ondernummer>6</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000089</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000089</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000089&amp;role=xml</dc:identifier>
+          <record-id>0000000089</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de inkomstenbelasting 1964, de Wet op de loonbelasting 1964 en de Coördinatiewet Sociale Verzekering (regelingen met betrekking tot aftrek en belastingvrije vergoeding van kosten van kinderopvang)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23483 ondernummer 6a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23483</sgd:kamerstuknummer>
+          <sgd:ondernummer>6a</sgd:ondernummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000090</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000090</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000090&amp;role=xml</dc:identifier>
+          <record-id>0000000090</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Wet op de inkomstenbelasting 1964, de Wet op de loonbelasting 1964 en de Coördinatiewet Sociale Verzekering (regelingen met betrekking tot aftrek en belastingvrije vergoeding van kosten van kinderopvang)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23483 ondernummer 6b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23483</sgd:kamerstuknummer>
+          <sgd:ondernummer>6b</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000091</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000091</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000091&amp;role=xml</dc:identifier>
+          <record-id>0000000091</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Interimwet op het speciaal onderwijs en het voortgezet onderwijs, de Wet op het basisonderwijs en de Wet medezeggenschap onderwijs 1992 ten behoeve van een betere toerusting van het basisonderwijs met capaciteiten en faciliteiten van (delen van) het speciaal onderwijs (Weer samen naar school)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23486 ondernummer 38</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23486</sgd:kamerstuknummer>
+          <sgd:ondernummer>38</sgd:ondernummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000092</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000092</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000092&amp;role=xml</dc:identifier>
+          <record-id>0000000092</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van onder meer de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het basisonderwijs en de Wet medezeggenschap onderwijs 1992 ten behoeve van een betere toerusting van het basisonderwijs met capaciteiten en faciliteiten van (delen van) het speciaal onderwijs (Weer samen naar school)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23486 ondernummer 38a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23486</sgd:kamerstuknummer>
+          <sgd:ondernummer>38a</sgd:ondernummer>
+          <dcterms:extent>15</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000093</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000093</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000093&amp;role=xml</dc:identifier>
+          <record-id>0000000093</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het basisonderwijs en de Wet medezeggenschap onderwijs 1992 ten behoeve van een betere toerusting van het basisonderwijs met capaciteiten en faciliteiten van (delen van) het speciaal onderwijs (Weer samen naar school)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23486 ondernummer 38b Herdruk</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23486</sgd:kamerstuknummer>
+          <sgd:ondernummer>38b Herdruk</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000094</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000094</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000094&amp;role=xml</dc:identifier>
+          <record-id>0000000094</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het basisonderwijs en de Wet medezeggenschap onderwijs 1992 ten behoeve van een betere toerusting van het basisonderwijs met capaciteiten en faciliteiten van (delen van) het speciaal onderwijs (Weer samen naar school)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23486 ondernummer 38c</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23486</sgd:kamerstuknummer>
+          <sgd:ondernummer>38c</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000095</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000095</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000095&amp;role=xml</dc:identifier>
+          <record-id>0000000095</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs, de Wet op het basisonderwijs en de Wet medezeggenschap onderwijs 1992 ten behoeve van een betere toerusting van het basisonderwijs met capaciteiten en faciliteiten van (delen van) het speciaal onderwijs (Weer samen naar school)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23486 ondernummer 38d</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23486</sgd:kamerstuknummer>
+          <sgd:ondernummer>38d</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000096</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000096</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000096&amp;role=xml</dc:identifier>
+          <record-id>0000000096</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Uitbreiding en wijziging van wettelijke regelingen inzake externe advisering op het terrein van volkshuisvesting, ruimtelijke ordening en milieubeheer (Versobering en harmonisatie externe adviesorganen VROM)</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23487 ondernummer 10</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23487</sgd:kamerstuknummer>
+          <sgd:ondernummer>10</sgd:ondernummer>
+          <dcterms:extent>1</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000097</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000097</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000097&amp;role=xml</dc:identifier>
+          <record-id>0000000097</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Algemene wet bestuursrecht in verband met opneming van regels betreffende het gebruik van de taal in het bestuurlijk verkeer</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23543 ondernummer 23</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23543</sgd:kamerstuknummer>
+          <sgd:ondernummer>23</sgd:ondernummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000098</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000098</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000098&amp;role=xml</dc:identifier>
+          <record-id>0000000098</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Algemene wet bestuursrecht in verband met opneming van regels betreffende het gebruik van de taal in het bestuurlijk verkeer</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23543 ondernummer 23a</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23543</sgd:kamerstuknummer>
+          <sgd:ondernummer>23a</sgd:ondernummer>
+          <dcterms:extent>2</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000099</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000099</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000099&amp;role=xml</dc:identifier>
+          <record-id>0000000099</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Wijziging van de Algemene wet bestuursrecht in verband met opneming van regels betreffende het gebruik van de taal in het bestuurlijk verkeer</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23543 ondernummer 23b</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23543</sgd:kamerstuknummer>
+          <sgd:ondernummer>23b</sgd:ondernummer>
+          <dcterms:extent>3</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <record>
+      <header>
+        <identifier>SGD:sgd:mpeg21:19941995:0000100</identifier>
+        <datestamp>2008-01-23</datestamp>
+      </header>
+      <metadata>
+        <srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sgd="http://www.kb.nl/namespaces/sgd" xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dc.xsd http://purl.org/dc/terms/ http://dublincore.org/schemas/xmls/qdc/2006/01/06/dcterms.xsd">
+          <dcterms:isPartOf xsi:type="collection">Staten-Generaal digitaal</dcterms:isPartOf>
+          <dcx:recordIdentifier>sgd:mpeg21:19941995:0000100</dcx:recordIdentifier>
+          <dc:identifier xsi:type="mpeg21">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000100&amp;role=xml</dc:identifier>
+          <record-id>0000000100</record-id>
+          <dc:rights>Tweede Kamer der Staten-Generaal</dc:rights>
+          <dc:title>Regeling van de medezeggenschap van het overheidspersoneel in de Wet op de ondernemingsraden</dc:title>
+          <dc:type>Kamerstuk</dc:type>
+          <dc:coverage>Eerste Kamer</dc:coverage>
+          <dc:description>Kamerstuk Eerste Kamer 1994-1995 kamerstuknummer 23551 ondernummer 48</dc:description>
+          <dcterms:temporal>1994_1995</dcterms:temporal>
+          <sgd:kamerstuknummer>23551</sgd:kamerstuknummer>
+          <sgd:ondernummer>48</sgd:ondernummer>
+          <dcterms:extent>6</dcterms:extent>
+        </srw_dc:dc>
+      </metadata>
+    </record>
+    <resumptionToken>SGD!2008-01-23T10:27:52.113Z!null!INDEXING!100</resumptionToken>
+  </ListRecords>
+</OAI-PMH>

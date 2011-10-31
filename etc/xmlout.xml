@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <field name="papertitle"/>
+  <field name="date"/>
+  <field name="year"/>
+  <field name="issue"/>
+  <field name="paperurl"/>
+  <field name="edition"/>
+  <field name="spatial"/>
+  <field name="alternative"/>
+  <field name="publisher"/>
+  <field name="special_collection"/>
+  <field name="rights"/>
+  <field name="source"/>
+  <field name="volume"/>
+  <field name="issued"/>
+  <field name="yearsDigitized"/>
+  <field name="spatialCreation"/>
+  <field name="forerunner"/>
+  <field name="ppn"/>
+</add>

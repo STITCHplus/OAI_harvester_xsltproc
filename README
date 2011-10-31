@@ -1,0 +1,44 @@
+
+
+Setup hits :
+
+OAI_harvester.jar must be placed in /usr/local/bin/
+in /usr/local/bin/ a lib dir must exist, with log4j.jar as an log-factory.
+
+on ubuntu this is how : 
+
+==
+    cd /usr/local/bin
+    mkdir lib; cd lib;ln - /usr/share/java/log4j-1.2.15.jar
+==
+
+xsltproxy must be installed.
+(see https://github.com/STITCHplus/XSLTproxy)
+
+/usr/local/etc/solr_harvester.xml must exist.
+
+file contains the harvesers source and destination, config looks like this :
+
+===
+    <harvesters>
+        <harvester name="GGC_def">
+            <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+            <oai_setname>GGC</oai_setname>
+            <oai_metadataprefix>INDEXING</oai_metadataprefix>
+            <oai_resumption_token>null</oai_resumption_token>
+            <oai_from/>
+            <oai_to/>
+            <oai_optional/>
+            <solr_pre_xslt>GGC_default.xsl</solr_pre_xslt>
+            <solr_target>http://localhost:8080/solr/ggc/update</solr_target>
+        </harvester>
+        <harvester name="GGC_mixed">
+            <oai_baseurl>http://services.kb.nl/mdo/oai</oai_baseurl>
+            <oai_setname>GGC</oai_setname>
+            <oai_resumption_token/>
+            <oai_metadataprefix>INDEXING</oai_metadataprefix>
+            <solr_target>http://www.kbresearch.nl:8080/solr/mixed/update</solr_target>
+            <solr_pre_xslt>GGC_default.xsl</solr_pre_xslt>
+        </harvester>
+    </harvesters>
+===
