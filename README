@@ -1,19 +1,18 @@
 
+Expirimental XSLT driven OAI harvester.
+
 
 Setup hits :
 
 OAI_harvester.jar must be placed in /usr/local/bin/
 in /usr/local/bin/ a lib dir must exist, with log4j.jar as an log-factory.
 
-on ubuntu this is how : 
+on Ubuntu this is how : 
 
-==
-    cd /usr/local/bin
-    mkdir lib; cd lib;ln - /usr/share/java/log4j-1.2.15.jar
-==
+cd /usr/local/bin
+mkdir lib; cd lib;ln - /usr/share/java/log4j-1.2.15.jar
 
-xsltproxy must be installed.
-(see https://github.com/STITCHplus/XSLTproxy)
+xsltproc must be installed.
 
 /usr/local/etc/solr_harvester.xml must exist.
 
